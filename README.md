@@ -10,16 +10,11 @@ If you are interested in offering me a job, please contact [@sortBy](https://t.m
 
 - 🔭 I’m making an android media player [M3UAndroid](https://github.com/thxbrop/M3UAndroid)
 
-- 🌱 I’m currently learning **Android Kotlin iOS and Swift**
-
-- 👨‍💻 All of my projects are available at [https://github.com/thxbrop](https://github.com/thxbrop)
-
-- 💬 Ask me about **kotlin**
-
-- 📫 How to reach me **https://t.me/sortby**
+- 🌱 I’m currently learning **Android Kotlin iOS and Swift.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+     **https://t.me/sortby**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
