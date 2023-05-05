@@ -14,7 +14,7 @@ If you are interested in offering me a job, please contact [@sortBy](https://t.m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-     **https://t.me/sortby**
+[@sortBy](https://t.me/sortBy).
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
