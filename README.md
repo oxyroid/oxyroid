@@ -10,7 +10,7 @@ If you are interested in offering me a job, please contact [@sortBy](https://t.m
 
 - 🔭 I’m making an android media player [M3UAndroid](https://github.com/thxbrop/M3UAndroid)
 
-- 🌱 I’m currently learning **Android Kotlin iOS and Swift.
+- 🌱 I’m currently learning **Android Kotlin iOS and Swift**.
 
 <h3 align="left">Connect with me:</h3>
 
