@@ -1,7 +1,25 @@
-### About me
-I am a Chinese university student who is about to graduate and eager to find a job in Android Software Development,
-If you are interested in offering me a job, please contact [@sortBy](https://t.me/sortBy).
+<h1 align="center">Hi 👋, I'm oxy</h1>
+<h3 align="center">A primary android developer from China</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thxbrop&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thxbrop&label=Profile%20views&color=0e75b6&style=flat" alt="thxbrop" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxbrop&hide=CSS&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thxbrop" alt="thxbrop" /></a> </p>
+
+- 🌱 I’m currently learning **Android Kotlin iOS and Swift**
+
+- 👨‍💻 All of my projects are available at [https://github.com/thxbrop](https://github.com/thxbrop)
+
+- 💬 Ask me about **kotlin**
+
+- 📫 How to reach me **https://t.me/sortby**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thxbrop&show_icons=true&locale=en&layout=compact" alt="thxbrop" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thxbrop&show_icons=true&locale=en" alt="thxbrop" /></p>
