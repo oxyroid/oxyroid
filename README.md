@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thxbrop&show_icons=true&locale=en&layout=compact" alt="thxbrop" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thxbrop&show_icons=true&locale=en" alt="thxbrop" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thxbrop&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thxbrop&" alt="thxbrop" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thxbrop&hide=CSS&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
