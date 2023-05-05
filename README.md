@@ -8,7 +8,7 @@ If you are interested in offering me a job, please contact [@sortBy](https://t.m
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thxbrop" alt="thxbrop" /></a> </p>
 
-- 🔭 I’m making an android media player [M3UAndroid](https://github.com/thxbrop/M3UAndroid)
+- 🔭 I’m making an android media player: [M3UAndroid](https://github.com/thxbrop/M3UAndroid).
 
 - 🌱 I’m currently learning **Android Kotlin iOS and Swift**.
 
