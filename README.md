@@ -4,7 +4,7 @@
 > I am a Chinese university student who is about to graduate and eager to find a job in Android Software Development,
 If you are interested in offering me a job, please contact [@sortBy](https://t.me/sortBy).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thxbrop" alt="thxbrop" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thxbrop&label=Profile%20views&color=0e75b6&style=flat" alt="thxbrop" /> </p>
 
 - 🔭 I’m making an android media player: [M3UAndroid](https://github.com/thxbrop/M3UAndroid).
 
