@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm oxy</h1>
 <h3 align="center">A primary android developer from China</h3>
 
-> I am a Chinese university student who is about to graduate and eager to find a job in Android Software Development,
-If you are interested in offering me a job, please contact [@sortBy](https://t.me/sortBy).
+
+> I am a Chinese university student who is about to graduate and ~~eager to find a **job** in Android
+work at the [DiDi](https://github.com/didi) company,
+If you want to provide feedback, please contact [@sortBy](https://t.me/sortBy).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realOxy&label=Profile%20views&color=0e75b6&style=flat" alt="realOxy" /> </p>
 
